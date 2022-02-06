@@ -1,0 +1,11 @@
+<h1>Search results</h1>
+
+<% @results.each do |result| %>
+ <div class="talent-card">
+   <%= result.name %>
+ </div>
+<%end%>
+<br>
+<br>
+
+<%= link_to "Back", root_path %>
