@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <p align="center">
-    <h1>Contact Technical Test - Tom Allen</h1>
+    <h2>Contact Technical Test - Tom Allen</h2>
     <br />
   </p>
 </div>
@@ -72,7 +72,7 @@ And now you can visit the site with the URL http://localhost:3000
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-At this stage, the user 
+This was a timeboxed exercise therefore the current usage fulfils the minimum brief. At this stage, the user can search any location and, if the searched location exists, they will be presented with a list of the available talent. The search is case insensitive.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
