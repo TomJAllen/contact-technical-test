@@ -17,7 +17,7 @@ Contact are a company that allows creatives to manage their career and put them 
 As part of my application to work at Contact, I was asked to build a programme that had two criteria:
 
 1. It accepts a JSON array of talent, containing objects with `name`, `location` and `date_of_birth` attributes
-2. A user is able to filter by location, producing an output of the talent in that locatio
+2. A user is able to filter by location, producing an output of the talent in that location. 
 
 I developed this programme to fulfil these criteria.
 
@@ -67,7 +67,7 @@ And now you can visit the site with the URL http://localhost:3000
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This was a timeboxed exercise therefore the current usage fulfils the minimum brief. At this stage, the user can search any location and, if the searched location exists, they will be presented with a list of the available talent. The search is case insensitive.
+This was a timeboxed exercise therefore the current usage fulfils the minimum brief. At this stage, the user can search any location and, if the searched location exists, they will be presented with a list of the available talent. Currently the only locations that are searchable are "Springfield", "Los Angeles" and "Philidelphia". The search is case insensitive.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
