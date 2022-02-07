@@ -43,14 +43,16 @@ I developed this programme to fulfil these criteria.
 1. Clone the repo
 `git clone git@github.com:TomJAllen/contact-technical-test.git`
 
-2. Create and setup the database
+2.  Run `bundle` / `yarn install` to ensure you have the right gems / pckages installed
+
+3. Create and setup the database
 As the data file is hardocded in, you can just run the following commands to create and setup the database.
 
 `rails db:create
 rails db:migrate
 rails db:seed`
 
-3. Start the Rails server
+4. Start the Rails server
 You can start the rails server using the command given below.
 
 `rails s`
