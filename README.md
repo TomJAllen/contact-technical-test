@@ -36,13 +36,6 @@ I developed this programme to fulfil these criteria.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-The setup expects the following tools to be installed on the system.
-
-Github
-Ruby 2.4.0
-Rails 5.0.2
 
 
 ### Installation
