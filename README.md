@@ -48,19 +48,19 @@ Rails 5.0.2
 ### Installation
 
 1. Clone the repo
-git clone git@github.com:organization/project-name.git
+`git clone git@github.com:TomJAllen/contact-technical-test.git`
 
 2. Create and setup the database
 As the data file is hardocded in, you can just run the following commands to create and setup the database.
 
-rails db:create
+`rails db:create
 rails db:migrate
-rails db:seed
+rails db:seed`
 
 3. Start the Rails server
 You can start the rails server using the command given below.
 
-rails s
+`rails s`
 
 And now you can visit the site with the URL http://localhost:3000
 
@@ -75,25 +75,6 @@ And now you can visit the site with the URL http://localhost:3000
 This was a timeboxed exercise therefore the current usage fulfils the minimum brief. At this stage, the user can search any location and, if the searched location exists, they will be presented with a list of the available talent. The search is case insensitive.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 
