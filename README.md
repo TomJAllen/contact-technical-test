@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <p align="center">
-    Contact Technical Test
+    <h1>Contact Technical Test - Tom Allen</h1>
     <br />
   </p>
 </div>
