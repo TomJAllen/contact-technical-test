@@ -2,10 +2,10 @@ require 'rails_helper'
 
 RSpec.describe Talent, type: :model do
   subject {
-      described_class.new(name: 'Frank Reynolds',
-                          location: 'Philidelphia',
-                          date_of_birth: '1944-11-17')
-    }
+    described_class.new(name: 'Frank Reynolds',
+                        location: 'Philidelphia',
+                        date_of_birth: '1944-11-17')
+  }
 
   it 'is valid with valid attributes' do
     expect(subject).to be_valid
@@ -17,7 +17,7 @@ RSpec.describe Talent, type: :model do
   end
 
   it 'is not valid without a location' do
-   subject.location = nil
+    subject.location = nil
     expect(subject).to_not be_valid
   end
 
